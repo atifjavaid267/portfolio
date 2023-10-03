@@ -10,7 +10,7 @@ module.exports = {
         title: ["var(--font-inter)"],
         text: ["var(--font-quicksand)"],
       },
-      backgroundImage:{
+      backgroundImage: {
         'computer': "url('/public/assets/background.jpg')",
       },
       colors: {
